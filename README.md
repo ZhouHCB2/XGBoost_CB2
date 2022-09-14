@@ -3,7 +3,9 @@ containing the dataset and models for reproduce the results.
 
 2.require install chemprop (for the installation please check in https://github.com/chemprop/chemprop)
 we use an old version of chemprop 0.0.1
+
 install molmap (for the installation please check in https://github.com/shenwanxiang/bidd-molmap)
+
 insatll deepchem (for the installation please check in https://github.com/deepchem/deepchem)
 
 3.feature genarates
