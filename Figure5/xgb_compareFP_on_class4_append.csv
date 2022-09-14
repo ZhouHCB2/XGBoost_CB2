@@ -1,0 +1,703 @@
+file name:ChblClass7758_fillNullWith0.csv, cols:act4
+file name:ChblClass7758_fillNullWith0.csv, cols:act4
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Property,0.8735211267605634,0.8409346503529667,[0.8735211267605634],[0.8409346503529667],10.428906202316284
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Property,0.8586371126562438,0.8661530337291647,[0.8586371126562438],[0.8661530337291647],10.29950737953186
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Property,0.8706994645247657,0.876617006305648,[0.8706994645247657],[0.876617006305648],10.286591291427612
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Property,0.8560727463707614,0.8741696525625025,[0.8560727463707614],[0.8741696525625025],10.320073127746582
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Property,0.8515299729172562,0.8604347650137593,[0.8515299729172562],[0.8604347650137593],10.329721212387085
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Property,0.849040246832678,0.8674907939613822,[0.849040246832678],[0.8674907939613822],10.359272241592407
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Property,0.8689362649821833,0.8718514917007685,[0.8689362649821833],[0.8718514917007685],10.31232738494873
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Property,0.8509369097604392,0.8697329276538203,[0.8509369097604392],[0.8697329276538203],10.318583250045776
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Property,0.8572300469483568,0.8614013065543679,[0.8572300469483568],[0.8614013065543679],10.322554111480713
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Property,0.8584630612189932,0.8521756894790602,[0.8584630612189932],[0.8521756894790602],10.32262396812439
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Constitution,0.8960261569416498,0.8960408113491322,[0.8960261569416498],[0.8960408113491322],10.09330439567566
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Constitution,0.9019030585587396,0.9068453549618838,[0.9019030585587396],[0.9068453549618838],9.954201936721802
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Constitution,0.9013755020080322,0.906653405861817,[0.9013755020080322],[0.906653405861817],10.122836589813232
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Constitution,0.9081210105308519,0.9075747815934619,[0.9081210105308519],[0.9075747815934619],10.038744688034058
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Constitution,0.8978704339976016,0.9026129067069552,[0.8978704339976016],[0.9026129067069552],10.041641473770142
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Constitution,0.8915704183049367,0.8993348552172082,[0.8915704183049367],[0.8993348552172082],10.049522876739502
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Constitution,0.908298239930893,0.9025228583390733,[0.908298239930893],[0.9025228583390733],10.094628095626831
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Constitution,0.9007514301631947,0.9032961460446248,[0.9007514301631947],[0.9032961460446248],10.091061353683472
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Constitution,0.8956539235412475,0.903651738473167,[0.8956539235412475],[0.903651738473167],10.036866903305054
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Constitution,0.898004255433758,0.8929485869935309,[0.898004255433758],[0.8929485869935309],10.031306743621826
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Autocorr,0.9212173038229376,0.9102069021584488,[0.9212173038229376],[0.9102069021584488],16.244106769561768
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Autocorr,0.9013370309339122,0.9162728663696803,[0.9013370309339122],[0.9162728663696803],16.203500032424927
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Autocorr,0.9137182061579652,0.9167174095423667,[0.9137182061579652],[0.9167174095423667],16.262332677841187
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Autocorr,0.9073163834199682,0.924815813841137,[0.9073163834199682],[0.924815813841137],16.369300365447998
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Autocorr,0.9087271110392499,0.9249919063292504,[0.9087271110392499],[0.9249919063292504],16.34941816329956
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Autocorr,0.9129498416339011,0.9143498702322232,[0.9129498416339011],[0.9143498702322232],16.36251664161682
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Autocorr,0.9263207267033796,0.9164438231838257,[0.9263207267033796],[0.9164438231838257],16.30616044998169
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Autocorr,0.9051947875477289,0.9087423935091278,[0.9051947875477289],[0.9087423935091278],16.195602893829346
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Autocorr,0.9062977867203219,0.9191906921498758,[0.9062977867203219],[0.9191906921498758],16.288114309310913
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Autocorr,0.9102487274098413,0.9093837248893428,[0.9102487274098413],[0.9093837248893428],16.328047513961792
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Fragment,0.8987592219986584,0.8801505358860752,[0.8987592219986584],[0.8801505358860752],8.306302547454834
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Fragment,0.8763246386131319,0.8908101228115312,[0.8763246386131319],[0.8908101228115312],8.294557094573975
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Fragment,0.8698694779116466,0.9065350058185163,[0.8698694779116466],[0.9065350058185163],8.284297943115234
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Fragment,0.8953580758975463,0.8936987533046151,[0.8953580758975463],[0.8936987533046151],8.364880084991455
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Fragment,0.8749343142406726,0.9030142178816165,[0.8749343142406726],[0.9030142178816165],8.235466957092285
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Fragment,0.8905089558759283,0.8957543516367046,[0.8905089558759283],[0.8957543516367046],8.347036123275757
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Fragment,0.892128279883382,0.8879401158786111,[0.892128279883382],[0.8879401158786111],8.362249374389648
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Fragment,0.8738602856249916,0.89236646382691,[0.8738602856249916],[0.89236646382691],8.214666366577148
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Fragment,0.8770824949698189,0.9043299859626391,[0.8770824949698189],[0.9043299859626391],8.286765813827515
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Fragment,0.8567763742627057,0.8856792645556691,[0.8567763742627057],[0.8856792645556691],8.278435707092285
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Charge,0.8991918175720992,0.8941845182445158,[0.8991918175720992],[0.8941845182445158],9.050598859786987
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Charge,0.8924882440416382,0.892604227316426,[0.8924882440416382],[0.892604227316426],9.080475807189941
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Charge,0.9085441767068274,0.9028984330599984,[0.9085441767068274],[0.9028984330599984],9.0678071975708
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Charge,0.8902071157316385,0.9027067648992847,[0.8902071157316385],[0.9027067648992847],9.083742618560791
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Charge,0.886050365819152,0.9054794150973939,[0.886050365819152],[0.9054794150973939],9.082751512527466
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Charge,0.9035912243337703,0.9118836030600738,[0.9035912243337703],[0.9118836030600738],9.093201160430908
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Charge,0.9131809469819675,0.9079116189241387,[0.9131809469819675],[0.9079116189241387],9.053926467895508
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Charge,0.8970214558449852,0.8896889790398919,[0.8970214558449852],[0.8896889790398919],9.084940910339355
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Charge,0.8893762575452715,0.9055785012417665,[0.8893762575452715],[0.9055785012417665],9.071813344955444
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Charge,0.9051045005251959,0.9030847803881511,[0.9051045005251959],[0.9030847803881511],9.101816654205322
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Estate,0.9140744466800806,0.9079373467203231,[0.9140744466800806],[0.9079373467203231],10.603441715240479
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Estate,0.9049274546842972,0.9063274342274519,[0.9049274546842972],[0.9063274342274519],10.377941608428955
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Estate,0.9168574297188755,0.91935603907878,[0.9168574297188755],[0.91935603907878],10.445559740066528
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Estate,0.9096124323305234,0.9183676208113585,[0.9096124323305234],[0.9183676208113585],10.577594518661499
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Estate,0.8989045636444479,0.9191779528408783,[0.8989045636444479],[0.9191779528408783],10.5534827709198
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Estate,0.9114412680209699,0.9176857853328441,[0.9114412680209699],[0.9176857853328441],10.467801332473755
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Estate,0.9234727621207213,0.9133577785881177,[0.9234727621207213],[0.9133577785881177],10.437827587127686
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Estate,0.9053170817876699,0.9169371196754564,[0.9053170817876699],[0.9169371196754564],10.478469133377075
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Estate,0.8980281690140844,0.9227067811251486,[0.8980281690140844],[0.9227067811251486],10.429364919662476
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Estate,0.908511540844084,0.9171876064010895,[0.908511540844084],[0.9171876064010895],10.431512117385864
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,MOE,0.9117270288397049,0.910748885546658,[0.9117270288397049],[0.910748885546658],8.036401271820068
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,MOE,0.9138834184049408,0.9059686133264728,[0.9138834184049408],[0.9059686133264728],8.03379511833191
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,MOE,0.9156659973226238,0.9135578198154313,[0.9156659973226238],[0.9135578198154313],7.9737231731414795
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,MOE,0.901431495596434,0.917757021887623,[0.901431495596434],[0.917757021887623],8.021901845932007
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,MOE,0.89251788673754,0.9240341552905627,[0.89251788673754],[0.9240341552905627],7.997623920440674
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,MOE,0.9116665301441678,0.9186913157501393,[0.9116665301441678],[0.9186913157501393],8.081475019454956
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,MOE,0.9228721250404923,0.9108187134502924,[0.9228721250404923],[0.9108187134502924],8.040692567825317
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,MOE,0.9112551465492642,0.9166328600405679,[0.9112551465492642],[0.9166328600405679],8.070600509643555
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,MOE,0.8947350771294432,0.9210398445092324,[0.8947350771294432],[0.9210398445092324],8.032479763031006
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,MOE,0.9017917261439845,0.907551923731699,[0.9017917261439845],[0.907551923731699],8.037178039550781
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Connectivity,0.8886016096579477,0.8743885749901765,[0.8886016096579477],[0.8743885749901765],9.238374471664429
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Connectivity,0.8770279865493079,0.879991334136731,[0.8770279865493079],[0.879991334136731],9.217212677001953
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Connectivity,0.8763152610441768,0.8845937863657277,[0.8763152610441768],[0.8845937863657277],9.208367109298706
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Connectivity,0.8744512375770961,0.9000563629775754,[0.8744512375770961],[0.9000563629775754],9.268266677856445
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Connectivity,0.8743684061603137,0.8954027950142988,[0.8743684061603137],[0.8954027950142988],9.221698999404907
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Connectivity,0.8519174584971605,0.8734492410963,[0.8519174584971605],[0.8734492410963],9.247788667678833
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Connectivity,0.8910990983695065,0.8837331010358846,[0.8910990983695065],[0.8837331010358846],9.227003574371338
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Connectivity,0.8829372358784123,0.8750439486139284,[0.8829372358784123],[0.8750439486139284],9.259423971176147
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Connectivity,0.878819584171697,0.882551830255912,[0.878819584171697],[0.882551830255912],9.243678569793701
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Connectivity,0.8782791079748984,0.8687776642832823,[0.8782791079748984],[0.8687776642832823],9.24355936050415
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Topology,0.8254862508383636,0.8257726650678157,[0.8254862508383636],[0.8257726650678157],7.640121698379517
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Topology,0.806552523344453,0.8256299676384168,[0.806552523344453],[0.8256299676384168],7.6073219776153564
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Topology,0.8203346720214191,0.8554876728640632,[0.8203346720214191],[0.8554876728640632],7.661468982696533
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Topology,0.8187939346602386,0.8262409919884053,[0.8187939346602386],[0.8262409919884053],7.648471355438232
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Topology,0.8100435210261799,0.8378770301624129,[0.8100435210261799],[0.8378770301624129],7.636304140090942
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Topology,0.7995917977282657,0.8240117946000298,[0.7995917977282657],[0.8240117946000298],7.62037992477417
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Topology,0.8479409620991253,0.8311926853314966,[0.8479409620991253],[0.8311926853314966],7.635172128677368
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Topology,0.8195616430910548,0.8293847194050034,[0.8195616430910548],[0.8293847194050034],7.623462438583374
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Topology,0.8101743796109994,0.8243305258611382,[0.8101743796109994],[0.8243305258611382],7.634133577346802
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Topology,0.7964596407121117,0.8227170582226762,[0.7964596407121117],[0.8227170582226762],7.654152154922485
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Kappa,0.7845238095238095,0.7720045255612916,[0.7845238095238095],[0.7720045255612916],10.892343997955322
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Kappa,0.7731736398590625,0.7758080240477706,[0.7731736398590625],[0.7758080240477706],10.873509168624878
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Kappa,0.7784906291834002,0.779637222267327,[0.7784906291834002],[0.779637222267327],10.897606372833252
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Kappa,0.7475928519486117,0.8008642323228257,[0.7475928519486117],[0.8008642323228257],10.926527261734009
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Kappa,0.7794844846867968,0.7834774456375115,[0.7794844846867968],[0.7834774456375115],10.88382601737976
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Kappa,0.7496689329401486,0.7720978897449485,[0.7496689329401486],[0.7720978897449485],10.938550233840942
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Kappa,0.7877692743764172,0.8130106829815107,[0.7877692743764172],[0.8130106829815107],10.900401592254639
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Kappa,0.7661394426100309,0.7875760649087222,[0.7661394426100309],[0.7875760649087222],10.890622615814209
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Kappa,0.7480046948356808,0.7935698088759313,[0.7480046948356808],[0.7935698088759313],10.907364130020142
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Kappa,0.7519930512537369,0.774133469526728,[0.7519930512537369],[0.774133469526728],10.865857124328613
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Path,0.8480784708249498,0.8206610842377681,[0.8480784708249498],[0.8206610842377681],7.986081123352051
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Path,0.8101563441983842,0.8194183039280734,[0.8101563441983842],[0.8194183039280734],7.882493257522583
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Path,0.8355655957161982,0.8424974966847988,[0.8355655957161982],[0.8424974966847988],7.983229637145996
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Path,0.8266011742842522,0.844998456727995,[0.8266011742842522],[0.844998456727995],7.996319055557251
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Path,0.8272565584704312,0.8566543463011926,[0.8272565584704312],[0.8566543463011926],7.989364385604858
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Path,0.8092234600262124,0.816623184270243,[0.8092234600262124],[0.816623184270243],7.962182521820068
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Path,0.8501208022891696,0.8454580446497306,[0.8501208022891696],[0.8454580446497306],7.98054051399231
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Path,0.8399236340412812,0.8368424611223799,[0.8399236340412812],[0.8368424611223799],7.9714035987854
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Path,0.8236418511066399,0.8505156030666234,[0.8236418511066399],[0.8505156030666234],8.020158052444458
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Path,0.8155720595760726,0.8047599591419816,[0.8155720595760726],[0.8047599591419816],7.961456060409546
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,Matrix,0.8694936284372903,0.8591148056312073,[0.8694936284372903],[0.8591148056312073],12.300405263900757
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,Matrix,0.8616481116782552,0.880438167711535,[0.8616481116782552],[0.880438167711535],12.298974752426147
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,Matrix,0.8735876840696118,0.8685861005114881,[0.8735876840696118],[0.8685861005114881],12.330942869186401
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,Matrix,0.8439764065824559,0.8785042339331964,[0.8439764065824559],[0.8785042339331964],12.351927042007446
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,Matrix,0.8532950671678994,0.8698740085253331,[0.8532950671678994],[0.8698740085253331],12.301352262496948
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,Matrix,0.8534157929226736,0.8651128504069681,[0.8534157929226736],[0.8651128504069681],12.358873844146729
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,Matrix,0.8683086329770003,0.869271909566063,[0.8683086329770003],[0.869271909566063],12.335546731948853
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,Matrix,0.8410854293207235,0.8708857336037864,[0.8410854293207235],[0.8708857336037864],12.305837154388428
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,Matrix,0.8475150905432597,0.8710688640535581,[0.8475150905432597],[0.8710688640535581],12.352364778518677
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,Matrix,0.868502383581567,0.8480898876404495,[0.868502383581567],[0.8480898876404495],12.309031009674072
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,InfoContent,0.828661971830986,0.8124805224719863,[0.828661971830986],[0.8124805224719863],8.283764123916626
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,InfoContent,0.8380256688503945,0.8206775621843392,[0.8380256688503945],[0.8206775621843392],8.294888019561768
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,InfoContent,0.8362817938420347,0.8616038808151336,[0.8362817938420347],[0.8616038808151336],8.263938903808594
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,InfoContent,0.8142994694174365,0.8367352416227171,[0.8142994694174365],[0.8367352416227171],8.269468545913696
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,InfoContent,0.8285332201517173,0.838946069173906,[0.8285332201517173],[0.838946069173906],8.26882815361023
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,InfoContent,0.8332036369593709,0.843252755017461,[0.8332036369593709],[0.843252755017461],8.29793095588684
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,InfoContent,0.8477924900118778,0.850644220250395,[0.8477924900118778],[0.850644220250395],8.281153678894043
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,InfoContent,0.8332687891511423,0.8290567951318458,[0.8332687891511423],[0.8290567951318458],8.294983625411987
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,InfoContent,0.8240040241448694,0.8450761256883706,[0.8240040241448694],[0.8450761256883706],8.274944067001343
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,InfoContent,0.8231604675590509,0.8344433094994893,[0.8231604675590509],[0.8344433094994893],8.27411413192749
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,MorganFP,0.9252548625083836,0.9143124263241331,[0.9252548625083836],[0.9143124263241331],21.527095794677734
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,MorganFP,0.9084441943651783,0.9114050884865882,[0.9084441943651783],[0.9114050884865882],21.568908214569092
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,MorganFP,0.9152610441767068,0.9218187599794323,[0.9152610441767068],[0.9218187599794323],21.614620208740234
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,MorganFP,0.9235368579816317,0.9270569131875948,[0.9235368579816317],[0.9270569131875948],22.010802030563354
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,MorganFP,0.9139853402859183,0.9310823935682296,[0.9139853402859183],[0.9310823935682296],21.58581781387329
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,MorganFP,0.9128133191349934,0.9244051744051743,[0.9128133191349934],[0.9244051744051743],21.642378330230713
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,MorganFP,0.9173685347154735,0.927184203773483,[0.9173685347154735],[0.927184203773483],21.618173837661743
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,MorganFP,0.9155524302583125,0.9151419878296146,[0.9155524302583125],[0.9151419878296146],21.71619725227356
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,MorganFP,0.9157880617035546,0.9384043299859626,[0.9157880617035546],[0.9384043299859626],21.468164920806885
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,MorganFP,0.9200456516469606,0.922962206332993,[0.9200456516469606],[0.922962206332993],21.726465463638306
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,RDkitFP,0.9243963782696176,0.9142650027776649,[0.9243963782696176],[0.9142650027776649],34.371092081069946
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,RDkitFP,0.9096298380290182,0.9122445939907653,[0.9096298380290182],[0.9122445939907653],34.095033168792725
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,RDkitFP,0.922412985274431,0.9099855213661336,[0.922412985274431],[0.9099855213661336],34.17618155479431
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,RDkitFP,0.9129454065555226,0.925406283130024,[0.9129454065555226],[0.925406283130024],34.321834087371826
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,RDkitFP,0.9167677216810166,0.9135157556790591,[0.9167677216810166],[0.9135157556790591],34.167959213256836
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,RDkitFP,0.9126767966360857,0.9238956150720856,[0.9126767966360857],[0.9238956150720856],34.31197714805603
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,RDkitFP,0.9232095616024187,0.9173115622003432,[0.9232095616024187],[0.9173115622003432],34.26032900810242
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,RDkitFP,0.912471294824236,0.9216734279918865,[0.912471294824236],[0.9216734279918865],34.161661863327026
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,RDkitFP,0.9143460764587527,0.9319424198250729,[0.9143460764587527],[0.9319424198250729],34.294344902038574
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,RDkitFP,0.9202072503972637,0.9192747701736466,[0.9202072503972637],[0.9192747701736466],34.27739930152893
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,AtomPairFP,0.9308417169684775,0.9158841781499396,[0.9308417169684775],[0.9158841781499396],29.54280114173889
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,AtomPairFP,0.917279584153906,0.9176878393565596,[0.917279584153906],[0.9176878393565596],29.702159881591797
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,AtomPairFP,0.9193808567603747,0.9201340965061839,[0.9193808567603747],[0.9201340965061839],29.598540782928467
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,AtomPairFP,0.9236378572005709,0.9297207348658695,[0.9236378572005709],[0.9297207348658695],29.512686491012573
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,AtomPairFP,0.9187787164665777,0.9234675983380995,[0.9187787164665777],[0.9234675983380995],29.458329677581787
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,AtomPairFP,0.9137007153778944,0.9311245634775047,[0.9137007153778944],[0.9311245634775047],29.46339178085327
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,AtomPairFP,0.9275152521325991,0.9317626244209445,[0.9275152521325991],[0.9317626244209445],29.64253044128418
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,AtomPairFP,0.9149035913741798,0.9171872887085868,[0.9149035913741798],[0.9171872887085868],29.510305404663086
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,AtomPairFP,0.9134808853118712,0.9308524997300507,[0.9134808853118712],[0.9308524997300507],29.33565664291382
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,AtomPairFP,0.9222137682135259,0.9174940415389854,[0.9222137682135259],[0.9174940415389854],29.48794913291931
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,TorsionFP,0.9249664654594231,0.908245599772367,[0.9249664654594231],[0.908245599772367],24.77918839454651
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,TorsionFP,0.911324571627614,0.9143298173398507,[0.911324571627614],[0.9143298173398507],24.5187406539917
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,TorsionFP,0.9196050870147257,0.906856377364618,[0.9196050870147257],[0.906856377364618],24.39011788368225
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,TorsionFP,0.9154367206226939,0.9234033844626058,[0.9154367206226939],[0.9234033844626058],24.45724320411682
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,TorsionFP,0.9086395300268133,0.9186855878702855,[0.9086395300268133],[0.9186855878702855],24.43003225326538
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,TorsionFP,0.9164652959807776,0.921313847784436,[0.9164652959807776],[0.921313847784436],24.495887756347656
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,TorsionFP,0.9168252618507721,0.9284030900962955,[0.9168252618507721],[0.9284030900962955],24.491731882095337
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,TorsionFP,0.8992737080972375,0.9098546315077757,[0.8992737080972375],[0.9098546315077757],24.453269958496094
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,TorsionFP,0.9064285714285714,0.9309469819673902,[0.9064285714285714],[0.9309469819673902],24.33040690422058
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,TorsionFP,0.9199783188343342,0.9175519237316989,[0.9199783188343342],[0.9175519237316989],24.39297366142273
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,AvalonFP,0.9227867203219317,0.9158841781499397,[0.9227867203219317],[0.9158841781499397],26.70349359512329
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,AvalonFP,0.9257264579397934,0.9215739374162186,[0.9257264579397934],[0.9215739374162186],26.779346704483032
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,AvalonFP,0.927446452476573,0.9219540743146329,[0.927446452476573],[0.9219540743146329],26.762887954711914
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,AvalonFP,0.9226110318080208,0.9233329307406364,[0.9226110318080208],[0.9233329307406364],26.702659845352173
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,AvalonFP,0.914456930352884,0.9206280688501591,[0.914456930352884],[0.9206280688501591],26.727575063705444
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,AvalonFP,0.9234074650502404,0.9173664614841086,[0.9234074650502404],[0.9173664614841086],26.41778564453125
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,AvalonFP,0.928463448871612,0.915110138703186,[0.928463448871612],[0.915110138703186],26.442688941955566
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,AvalonFP,0.9236612177788648,0.9201284651791751,[0.9236612177788648],[0.9201284651791751],26.666983366012573
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,AvalonFP,0.917250167672703,0.9322629845589029,[0.917250167672703],[0.9322629845589029],26.57923674583435
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,AvalonFP,0.9153458213256483,0.9233163091590059,[0.9153458213256483],[0.9233163091590059],26.434487104415894
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,EstateFP,0.8564688128772635,0.8573431974309988,[0.8564688128772635],[0.8573431974309988],9.099710464477539
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,EstateFP,0.843796471202926,0.8377994123461472,[0.843796471202926],[0.8377994123461472],9.091684818267822
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,EstateFP,0.8443708165997325,0.8461712808854971,[0.8443708165997325],[0.8461712808854971],9.01781415939331
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,EstateFP,0.8440908723639204,0.838389226619429,[0.8440908723639204],[0.838389226619429],9.081403970718384
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,EstateFP,0.8315648705822116,0.8433537473695569,[0.8315648705822116],[0.8433537473695569],9.100949764251709
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,EstateFP,0.8406407000873743,0.8584681967034908,[0.8406407000873743],[0.8584681967034908],9.089593648910522
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,EstateFP,0.8631391048482885,0.857920397606796,[0.8631391048482885],[0.857920397606796],9.278223752975464
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,EstateFP,0.8279761662114603,0.8553380662609871,[0.8279761662114603],[0.8553380662609871],9.324525594711304
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,EstateFP,0.8432059020791415,0.8637464906597558,[0.8432059020791415],[0.8637464906597558],9.281852006912231
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,EstateFP,0.8532077351935144,0.8513891726251277,[0.8532077351935144],[0.8513891726251277],9.264243602752686
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,MACCSFP,0.9130952380952381,0.904221373114914,[0.9130952380952381],[0.904221373114914],9.845223903656006
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,MACCSFP,0.9029681282906635,0.9062766576848604,[0.9029681282906635],[0.9062766576848604],9.823107719421387
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,MACCSFP,0.8990896921017402,0.9069477145408783,[0.8990896921017402],[0.9069477145408783],9.795141458511353
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,MACCSFP,0.9006706348137575,0.9133553417341009,[0.9006706348137575],[0.9133553417341009],9.837154150009155
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,MACCSFP,0.8894357087998707,0.9144128041871258,[0.8894357087998707],[0.9144128041871258],9.828355312347412
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,MACCSFP,0.9065913062472696,0.905035125623361,[0.9065913062472696],[0.905035125623361],9.819167375564575
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,MACCSFP,0.9162246247705431,0.9082357548991802,[0.9162246247705431],[0.9082357548991802],9.840415954589844
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,MACCSFP,0.8886816680934327,0.8925760649087221,[0.8886816680934327],[0.8925760649087221],9.867492198944092
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,MACCSFP,0.8894366197183099,0.9145914318108196,[0.8894366197183099],[0.9145914318108196],9.823670625686646
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,MACCSFP,0.902377521613833,0.8929111338100102,[0.902377521613833],[0.8929111338100102],9.845536947250366
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,PharmacoErGFP,0.8939604292421194,0.8935273633863122,[0.8939604292421194],[0.8935273633863122],13.773845195770264
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,PharmacoErGFP,0.8762007154053293,0.8897776664455066,[0.8762007154053293],[0.8897776664455066],13.728872299194336
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,PharmacoErGFP,0.8898995983935744,0.8668202484371195,[0.8898995983935744],[0.8668202484371195],13.728359460830688
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,PharmacoErGFP,0.8844467936114627,0.8902532308063933,[0.8844467936114627],[0.8902532308063933],13.743256330490112
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,PharmacoErGFP,0.8755945403344247,0.8916729617439162,[0.8755945403344247],[0.8916729617439162],13.65829062461853
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,PharmacoErGFP,0.8885362057667103,0.8875946081828436,[0.8885362057667103],[0.8875946081828436],13.838903665542603
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,PharmacoErGFP,0.8882950005398984,0.8883385330145995,[0.8882950005398984],[0.8883385330145995],13.793317317962646
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,PharmacoErGFP,0.8628096422214071,0.8844827586206896,[0.8628096422214071],[0.8844827586206896],13.747218132019043
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,PharmacoErGFP,0.8578973843058351,0.8904073534175574,[0.8578973843058351],[0.8904073534175574],13.721730470657349
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,PharmacoErGFP,0.8705863341323493,0.8812087163772557,[0.8705863341323493],[0.8812087163772557],13.722245693206787
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,PharmacoPFP,0.8867605633802818,0.8730708778775933,[0.8867605633802818],[0.8730708778775933],10.039520502090454
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,PharmacoPFP,0.8753868413648969,0.8969270036423705,[0.8753868413648969],[0.8969270036423705],10.036792516708374
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,PharmacoPFP,0.8858969210174028,0.8751962057860408,[0.8858969210174028],[0.8751962057860408],10.022375583648682
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,PharmacoPFP,0.8783565407094185,0.880916435175866,[0.8783565407094185],[0.880916435175866],10.062138319015503
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,PharmacoPFP,0.8678402522333158,0.8746054335509632,[0.8678402522333158],[0.8746054335509632],10.019176006317139
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,PharmacoPFP,0.8784506061598952,0.8987777370130312,[0.8784506061598952],[0.8987777370130312],10.053300142288208
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,PharmacoPFP,0.8849138861893965,0.8868731682940995,[0.8849138861893965],[0.8868731682940995],10.075758457183838
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,PharmacoPFP,0.8720496514614161,0.8725929682217715,[0.8720496514614161],[0.8725929682217715],10.049506425857544
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,PharmacoPFP,0.8619215291750502,0.8870903520138214,[0.8619215291750502],[0.8870903520138214],10.021890640258789
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,PharmacoPFP,0.8743771714832074,0.8880660537963908,[0.8743771714832074],[0.8880660537963908],10.03209376335144
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,PubChemFP,0.9215291750503017,0.9089569529693914,[0.9215291750503017],[0.9089569529693914],15.506378173828125
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,PubChemFP,0.9138767198531678,0.9087173168320855,[0.9138767198531678],[0.9087173168320855],15.526933193206787
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,PubChemFP,0.9122188755020081,0.9075464804741414,[0.9122188755020081],[0.9075464804741414],15.454134464263916
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,PubChemFP,0.9164164130464058,0.9224707113812955,[0.9164164130464058],[0.9224707113812955],15.506345987319946
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,PubChemFP,0.9099296657100125,0.9212081152538715,[0.9099296657100125],[0.9212081152538715],15.537284851074219
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,PubChemFP,0.9232607033639143,0.9137112225347519,[0.9232607033639143],[0.9137112225347519],15.526997327804565
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,PubChemFP,0.9190118507720548,0.9115277608956959,[0.9190118507720548],[0.9115277608956959],15.525552988052368
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,PubChemFP,0.9104330574918811,0.911419878296146,[0.9104330574918811],[0.911419878296146],15.528002977371216
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,PubChemFP,0.9035814889336016,0.9289898499082172,[0.9035814889336016],[0.9289898499082172],15.457189798355103
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,PubChemFP,0.9131440383527701,0.9065032345931222,[0.9131440383527701],[0.9065032345931222],15.422411918640137
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,MHFP6,0.9151374916163648,0.9021448992588377,[0.9151374916163648],[0.9021448992588377],27.626384496688843
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,MHFP6,0.9092279249226318,0.8947639229279786,[0.9092279249226318],[0.8947639229279786],27.65975260734558
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,MHFP6,0.9192570281124497,0.9109631674379584,[0.9192570281124497],[0.9109631674379584],27.646282196044922
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,MHFP6,0.9038958765385549,0.9117315511896615,[0.9038958765385549],[0.9117315511896615],27.57192063331604
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,MHFP6,0.9026200196720428,0.9131346786812712,[0.9026200196720428],[0.9131346786812712],27.70398998260498
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,MHFP6,0.9135880843162953,0.9146997676409441,[0.9135880843162953],[0.9146997676409441],27.655785083770752
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,MHFP6,0.901627119101609,0.9224876085517875,[0.901627119101609],[0.9224876085517875],27.60770058631897
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,MHFP6,0.899610017257076,0.9001724137931035,[0.899610017257076],[0.9001724137931035],27.5722439289093
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,MHFP6,0.899382964453387,0.9149592376633193,[0.899382964453387],[0.9149592376633193],27.534534215927124
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,MHFP6,0.9113900185838563,0.9140619679945523,[0.9113900185838563],[0.9140619679945523],27.607065677642822
+MultiOutputClassifier(estimator=XGBClassifier(colsample_bytree=0.66, gpu_id=0,
+                                              learning_rate=0.05,
+                                              max_delta_step=1, max_depth=5,
+                                              min_child_weight=5,
+                                              n_estimators=3000, seed=123,
+                                              subsample=0.53,
+                                              tree_method='gpu_hist'))
+
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,1,MAP4,0.9355097250167673,0.9140549842147337,[0.9355097250167673],[0.9140549842147337],27.137046098709106
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,2,MAP4,0.9108623715552698,0.9101052089962492,[0.9108623715552698],[0.9101052089962492],27.029409408569336
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,4,MAP4,0.9187081659973226,0.9147181402397769,[0.9187081659973226],[0.9147181402397769],26.948513984680176
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,8,MAP4,0.916190848124108,0.925164727511843,[0.916190848124108],[0.925164727511843],27.026814937591553
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,16,MAP4,0.9114084374199981,0.9176603895753522,[0.9114084374199981],[0.9176603895753522],26.95449686050415
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,32,MAP4,0.9178373470948012,0.92776826600356,[0.9178373470948012],[0.92776826600356],27.018726110458374
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,64,MAP4,0.920395340675953,0.924493199897357,[0.920395340675953],[0.924493199897357],27.012847661972046
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,128,MAP4,0.9136195018547961,0.9112981744421906,[0.9136195018547961],[0.9112981744421906],26.870609998703003
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,256,MAP4,0.9156606304493629,0.9230104740308823,[0.9156606304493629],[0.9230104740308823],26.955374479293823
+,model,seed,fp_types,valid_roc_auc,test_roc_auc,valid_roc_aucs,test_roc_aucs,use_time
+0,xgb,512,MAP4,0.9219309704004955,0.9199965951651345,[0.9219309704004955],[0.9199965951651345],27.048632621765137
+file name:ChblClass7758_fillNullWith0.csv, cols:act4

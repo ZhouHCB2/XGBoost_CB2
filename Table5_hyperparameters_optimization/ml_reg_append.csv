@@ -1,0 +1,114 @@
+clf =  XGBRegressor(colsample_bytree=0.4, gamma=0.02, gpu_id=0, learning_rate=0.07,
+             max_depth=4, min_child_weight=20, n_estimators=10000,
+             objective='reg:squarederror', reg_alpha=4.0, reg_lambda=0,
+             seed=123, subsample=0.5, tree_method='gpu_hist')
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,1,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6456781539108284,0.6747743885958087,0.6908423037473107,0.6665096089869125,32.65755295753479
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,2,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6698191357054202,0.6571439770528302,0.660472098438126,0.6689303386303403,28.077531337738037
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,4,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.7051991108057902,0.6393737110119588,0.6727293203087515,0.6689915214052047,24.38312292098999
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,8,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6575228160868222,0.651441894517192,0.6603934193199827,0.6901187299578252,40.11564040184021
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,16,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6742026404731577,0.6599819290553228,0.6106984852310895,0.6990539243941426,31.619855880737305
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,32,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6709322136948734,0.6430606611832936,0.6935453760449568,0.6404560776040328,28.69100308418274
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,64,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6481041155732573,0.6832695097419195,0.6411913336208095,0.6857990943285376,41.43846678733826
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,128,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6832288677179051,0.6482503236686632,0.6927292361587128,0.632030081808581,33.34351968765259
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,256,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6897991810653121,0.6520281657489178,0.6539102704076873,0.665842350653716,44.17262148857117
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,512,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6809908686218823,0.6573657922002019,0.73538288415257,0.6089370754267333,28.648473501205444
+
+##     params_2022-05-13-16_01_23seed2
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,1,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6491415618857613,0.6710682466049552,0.7033384828486313,0.6545663731580289,44.45419096946716
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,2,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6741386447457062,0.6528723121725236,0.6501671517522771,0.6793058722931195,39.90903902053833
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,4,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6973804477204573,0.6474377378395372,0.6729249471970219,0.6671258460939565,41.92204761505127
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,8,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6707459712144419,0.6364605435406652,0.6762922420961207,0.6750564466304545,40.325947999954224
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,16,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6776786211636281,0.6569582951507728,0.6113922529509834,0.6986550441331245,43.308340549468994
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,32,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6643633185033698,0.6493569147961131,0.6860073283937602,0.6484237419363313,43.20314860343933
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,64,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6502907083157689,0.6810986524547131,0.6540763685955008,0.6731834715043603,43.5436589717865
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,128,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6847816939287571,0.6468068023871494,0.6918881689861511,0.632162675479925,43.24478554725647
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,256,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6941980309138942,0.6475155590547255,0.6560958023250999,0.6633745089252134,43.163135051727295
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,512,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6783289309861523,0.6600322347709368,0.7464222546036906,0.5983258267656791,42.8043794631958
+XGBRegressor(colsample_bytree=0.3, gamma=0.02, gpu_id=0, learning_rate=0.05,
+             max_depth=6, min_child_weight=4, n_estimators=10000,
+             objective='reg:squarederror', reg_alpha=4.0, reg_lambda=1.2,
+             seed=123, subsample=0.6, tree_method='gpu_hist')
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,1,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.643975885108914,0.6761393743030014,0.6871872192976854,0.6709813867130979,40.915595054626465
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,2,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6629615482048098,0.664147781872825,0.6449784953576362,0.6842678975174533,40.95281100273132
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,4,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6833638823220712,0.6614352509724287,0.6767168048877295,0.6640638027860735,48.007983446121216
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,8,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6499017088509994,0.6586411426434677,0.6540449693433025,0.6960668069612892,59.43878388404846
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,16,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6617804919737695,0.6727641064015132,0.605875722539499,0.7039680911568411,37.760401010513306
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,32,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6587533843340225,0.6551518864679786,0.6802984136122823,0.6538406157082104,48.043243408203125
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,64,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6479821687613452,0.6834106714941496,0.6265402440848497,0.7001094083968586,71.69054412841797
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,128,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6709497510953355,0.6609129454772243,0.686297922202688,0.6390501486863855,76.96589469909668
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,256,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6838120755561989,0.6579161667604342,0.6610492351548706,0.6597571389696638,72.8892183303833
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,512,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6656581937772967,0.6732657674703957,0.7306001581154311,0.616198067520369,74.46282005310059
+XGBRegressor(colsample_bytree=0.3, gamma=0.02, gpu_id=0, learning_rate=0.05,
+             max_depth=6, min_child_weight=4, n_estimators=1500,
+             objective='reg:squarederror', reg_alpha=4.0, reg_lambda=1.2,
+             seed=123, subsample=0.6, tree_method='gpu_hist')
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,1,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.643975885108914,0.6761393743030014,0.6871872192976854,0.6709813867130979,41.30894899368286
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,2,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6629615482048098,0.664147781872825,0.6449784953576362,0.6842678975174533,41.2591392993927
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,4,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6833638823220712,0.6614352509724287,0.6767168048877295,0.6640638027860735,48.28621053695679
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,8,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6499017088509994,0.6586411426434677,0.6540449693433025,0.6960668069612892,52.97111392021179
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,16,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6617804919737695,0.6727641064015132,0.605875722539499,0.7039680911568411,37.95202159881592
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,32,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6587533843340225,0.6551518864679786,0.6802984136122823,0.6538406157082104,48.24655795097351
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,64,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6505018651288209,0.6809249882627506,0.6286839216565814,0.6979801823320159,53.44780135154724
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,128,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6724152913892454,0.6590935561456877,0.6866898025426559,0.6382450526235173,52.759973764419556
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,256,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6856399112635042,0.655982671016907,0.660192042181923,0.6603070913013103,52.45880055427551
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,512,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6674265882291236,0.6711533232362976,0.7318862516115745,0.6139038742433084,52.265602350234985
+XGBRegressor(colsample_bytree=1.0, gpu_id=0, learning_rate=0.08, max_depth=4,
+             min_child_weight=4, n_estimators=1500,
+             objective='reg:squarederror', reg_alpha=3, seed=123,
+             tree_method='gpu_hist')
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,1,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6516504783502066,0.6691792247331015,0.6997201890951064,0.6591624521973674,47.41505670547485
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,2,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.67858948082885,0.6490351492263109,0.6484858033526255,0.681361948448292,47.290648460388184
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,4,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6993737976374139,0.6460839630145544,0.6757546299292285,0.6648567886704793,46.62015080451965
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,8,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6756094783408984,0.6337673906586845,0.6809628020198963,0.670606703456222,46.64604473114014
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,16,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6710778607340407,0.6638677727435001,0.6115924878101224,0.6984619964615185,46.35062766075134
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,32,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6711054392622801,0.6427102368160478,0.6955764341049823,0.6400113276276002,46.34173941612244
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,64,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6539151814423633,0.6775920124756412,0.651536648762105,0.6757297127037931,46.67865324020386
+,model,seed,fp_types,valid_rmse,valid_r2,test_rmse,test_r2,time
+0,xgb,128,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6711766070757421,0.6606798642126093,0.6998125362488022,0.6247921195215401,47.15447521209717

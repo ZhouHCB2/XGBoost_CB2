@@ -1,0 +1,60 @@
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,1,act1_act2_act3_act4,0.9792628398149485,0.9207050329588998,0.9165450911278821,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,2,act1_act2_act3_act4,0.9785098370159454,0.9084407105349813,0.9150625646990858,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,4,act1_act2_act3_act4,0.9779272961725952,0.909438681697488,0.9209186940982144,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,8,act1_act2_act3_act4,0.9777213162104649,0.9113456149635956,0.9188880983273773,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,16,act1_act2_act3_act4,0.9775438334982114,0.9156788264881851,0.9173238503340004,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,32,act1_act2_act3_act4,0.9714094919680044,0.9028792451353752,0.9113070283259225,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,64,act1_act2_act3_act4,0.9774609586293788,0.9128336470930076,0.9264110119184994,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,128,act1_act2_act3_act4,0.9826842321354675,0.9027648940318537,0.9066224466362682,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,256,act1_act2_act3_act4,0.9756361266732475,0.9029113724462742,0.9095217037145953,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,512,act1_act2_act3_act4,0.9796980432223519,0.9113324980642459,0.9218777154776634,ROC,803780,37,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,1,act1_act2_act3_act4,0.956764432638448,0.910003561403177,0.8924966207963562,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,2,act1_act2_act3_act4,0.9603535963665968,0.8953928100851448,0.9152026377029941,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,4,act1_act2_act3_act4,0.9582519400766286,0.9016256993300847,0.9110270908939633,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,8,act1_act2_act3_act4,0.9555647348211482,0.8967101350981568,0.911645517836892,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,16,act1_act2_act3_act4,0.9564222092018397,0.9057744338776499,0.9021989078407533,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,32,act1_act2_act3_act4,0.9542446010075242,0.8944774392713684,0.9075966867865992,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,64,act1_act2_act3_act4,0.9600448815278135,0.9076670912694589,0.9072070714631397,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,128,act1_act2_act3_act4,0.9555668616955868,0.9043374145357846,0.9037927216603543,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,256,act1_act2_act3_act4,0.9580946711003553,0.8978211445835087,0.9072378605059797,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,512,act1_act2_act3_act4,0.9603667241728339,0.9019676650401792,0.9060662272418272,ROC,403556,201,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,1,act1_act2_act3_act4,0.9722061651605552,0.9212537191560504,0.9182865178450212,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,2,act1_act2_act3_act4,0.9639351530055464,0.9058044543496593,0.9074318092845681,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,4,act1_act2_act3_act4,0.9723799909043472,0.9074269455857258,0.91976390546945,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,8,act1_act2_act3_act4,0.9657821142489172,0.9049901353679051,0.9139325606189175,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,16,act1_act2_act3_act4,0.9746197523533143,0.9158126733583332,0.9154467241644757,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,32,act1_act2_act3_act4,0.9704740435071789,0.905499744986642,0.9132279445243613,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,64,act1_act2_act3_act4,0.9665008550598546,0.9124340419991693,0.9214188852940369,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,128,act1_act2_act3_act4,0.9689912296067114,0.9043041282248234,0.9065023438542299,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,256,act1_act2_act3_act4,0.9644208327988104,0.9045543133121959,0.9002173220510693,ROC,322436,40,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,512,act1_act2_act3_act4,0.9641689998624026,0.9064101902016513,0.9171130811057112,ROC,322436,40,128,0.0001,0

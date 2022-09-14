@@ -1,0 +1,7 @@
+model,fp_types,test_r2
+xgb,AvalonFP_AtomPairFP,0.657177675
+xgb,AvalonFP_AtomPairFP_RDkitFP,0.658342987
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.663963614
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP_TorsionFP,0.663908828
+xgb,AvalonFP_MorganFP,0.655385209
+xgb,AvalonFP_RDkitFP,0.652990984

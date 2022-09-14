@@ -1,0 +1,28 @@
+file name:ChblClass7758_fillNullWith0.csv, cols:act4,
+file name:ChblClass7758_fillNullWith0.csv, cols:act4,
+model,fp_types,test_roc_auc
+xgb,AtomPairFP,0.923531547
+xgb,Autocorr,0.91611154
+xgb,AvalonFP,0.921155755
+xgb,Charge,0.901602084
+xgb,Connectivity,0.881798864
+xgb,Constitution,0.902148145
+xgb,Estate,0.915904146
+xgb,EstateFP,0.850991919
+xgb,Fragment,0.894027882
+xgb,InfoContent,0.837291648
+xgb,Kappa,0.785217937
+xgb,MACCSFP,0.90585634
+xgb,MAP4,0.918827016
+xgb,MHFP6,0.909911922
+xgb,MOE,0.914680115
+xgb,Matrix,0.868094656
+xgb,MorganFP,0.923377348
+xgb,Path,0.833842894
+xgb,PharmacoErGFP,0.886408344
+xgb,PharmacoPFP,0.883411624
+xgb,Property,0.864096132
+xgb,PubChemFP,0.914105152
+xgb,RDkitFP,0.918951495
+xgb,Topology,0.830264511
+xgb,TorsionFP,0.917959124

@@ -1,0 +1,62 @@
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,1,no,0.5722607283300711,0.7202168003457761,0.7728335073852265,0.7565574471665675,0.5974073438850104,0.5825799753869312,403457,251,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,1,no,0.5587007216672182,0.7429278677531739,0.8093246831594025,0.7893102139452951,0.5988889562605064,0.5751351824364832,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,2,no,0.5478606276653052,0.7288514489063667,0.756626185523964,0.7798775223399729,0.5979589809892675,0.5694792821878571,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,4,no,0.5738065630166674,0.7829216521830102,0.7603657300840485,0.7540846515141018,0.5616919686058605,0.5770470180778032,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,8,no,0.5993219757241182,0.7684443272234242,0.7491558134588389,0.7344764676183618,0.5337006683693256,0.6014921308743896,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,16,no,0.5853472842103401,0.7575432883866156,0.7229550409597855,0.7596160959719347,0.5854129750570302,0.5892577208894727,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,32,yes,0.6398664790011399,0.7647231498679689,0.7625304535997012,0.7203376230651835,0.5809869894312665,0.5632729101998967,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,64,yes,0.543346292672555,0.7232057883340005,0.7509718129265008,0.7847710679881207,0.6085431001545171,0.5860070054435497,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,128,yes,0.5671791008613694,0.7579268177741201,0.7826269196375093,0.764449243045762,0.5647428064521053,0.5414636347097772,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,256,yes,0.5772851818142035,0.731339196473536,0.7719471518218168,0.7547938114827762,0.5841855608935599,0.5674852221496733,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,descriptor_path,512,yes,0.6069000354761145,0.8185429733872875,0.7504480576619774,0.7389096643333818,0.5222200102653696,0.5951016471355735,403457,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,1,no,0.18651604929538335,0.7520380551456263,0.7975942161314762,0.9783539003256512,0.5860913947306696,0.5658488659773812,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,2,no,0.18415658322176043,0.7576432206974505,0.742359836175903,0.9755939622625222,0.5840311377044789,0.6023655051163707,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,4,no,0.17819851574599363,0.7623233249569676,0.7739005861296115,0.979547175405733,0.6009777233614619,0.574037277506983,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,8,no,0.16591803340827566,0.7724391103426177,0.7439176321622548,0.9804714969427352,0.5549567478817812,0.6248797935717659,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,16,no,0.19500627769912734,0.7735610133862774,0.6887593306677864,0.9749389586444148,0.5628888009850177,0.627854215956886,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,32,yes,0.20049257414593497,0.7619001767842025,0.7917038934449228,0.9786313218461504,0.5991005482788851,0.5412531168159925,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,64,yes,0.17588610442638902,0.7142880000238351,0.7593467882458645,0.9779731658900004,0.6244085384127936,0.5903266330726602,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,128,yes,0.16965456019559055,0.7739766974379712,0.7749213677055863,0.9816042988758072,0.5638765660763925,0.583487211452602,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,256,yes,0.2307373703767587,0.7866770024169185,0.8284916027733623,0.9779821397230771,0.5538222193970018,0.5449492060037936,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,fingerprint_path,512,yes,0.17642742867581712,0.8309761119485464,0.7681702125189194,0.9795758829499885,0.5280531082115032,0.5904777054353112,322337,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,1,no,0.15615210586096928,0.734620467866524,0.7967199698603283,0.9818170361958142,0.5965529163719764,0.5701389179781723,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,2,no,0.16716811932047568,0.7577535320946154,0.7276545026165527,0.979888077307184,0.5854080590405073,0.6210119364004957,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,4,no,0.17037106450403722,0.7662178187424605,0.7894528752250798,0.9806976267580466,0.5922641240690579,0.5646099740820043,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,8,no,0.16252454197595045,0.7631855003557761,0.7367525193218202,0.9809337990611293,0.5575792709959301,0.6289251000004483,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,16,no,0.16848419674424955,0.7805360988980061,0.6660253606460425,0.9798448357465742,0.5625710411981643,0.6517871442704067,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,32,yes,0.181628413410983,0.7724531486174325,0.7819646260624199,0.9788856390422023,0.591660943361769,0.5527515767036618,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,64,yes,0.23608353314305883,0.7280503287419002,0.7725712875862473,0.9773065541155704,0.6309791008947645,0.5984257167448377,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,128,yes,0.17598048109593767,0.7818868381964672,0.7944809403909573,0.9806076971755133,0.5611320876999355,0.5668563934753291,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,256,yes,0.20487977758201045,0.748019815514971,0.8330244194237242,0.9791192040440413,0.5851006956815915,0.5421719121556973,803681,300,128,0.0001,0
+,stype,seed,reverse_V_test,train_rmse,valid_rmse,test_rmse,train_r2,valid_r2,test_r2,trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,512,yes,0.18346397215334462,0.8185147339054328,0.7596293790555713,0.9793032975310394,0.5400373824879722,0.5946826149087027,803681,300,128,0.0001,0

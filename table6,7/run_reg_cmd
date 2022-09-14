@@ -1,0 +1,1 @@
+ python /home/phzd/g09E/mp/01b_cmp_3path_class_rand_with_ext.py -f ChblClass7758_fill0_class4.csv -ext BdbClass1698_fill0_class4.csv -gpu 2 -use_performance

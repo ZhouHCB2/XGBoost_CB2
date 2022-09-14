@@ -1,0 +1,8 @@
+file name:ChblClass7758_fillNullWith0.csv, cols:act4,
+model,fp_types,test_roc_auc
+xgb,AtomPairFP_AvalonFP,0.929696446
+xgb,AtomPairFP_MAP4,0.923179482
+xgb,AtomPairFP_MorganFP,0.928629757
+xgb,AtomPairFP_MorganFP_AvalonFP,0.930982308
+xgb,AtomPairFP_MorganFP_AvalonFP_MAP4,0.926224084
+xgb,AtomPairFP_RDkitFP,0.92639952

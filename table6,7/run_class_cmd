@@ -1,0 +1,1 @@
+python /home/phzd/g09E/mp/01b_cmp_3path_reg_rand_with_ext.py -f ChblReg6227.csv -ext BdbReg1344.csv -gpu 2

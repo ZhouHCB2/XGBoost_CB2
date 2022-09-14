@@ -1,0 +1,2 @@
+pred_file,fp_types,ext_roc_auc
+BdbClass1698.csv,AtomPairFP_MorganFP_AvalonFP,0.9173243891052356

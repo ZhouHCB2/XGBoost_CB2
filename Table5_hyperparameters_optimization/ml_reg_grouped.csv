@@ -1,0 +1,14 @@
+clf =  XGBRegressor(colsample_bytree=0.4, gamma=0.02, gpu_id=0, learning_rate=0.07,
+             max_depth=4, min_child_weight=20, n_estimators=10000,
+             objective='reg:squarederror', reg_alpha=4.0, reg_lambda=0,
+             seed=123, subsample=0.5, tree_method='gpu_hist')
+model,fp_types,test_r2
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6626668803196025
+##  params_2022-05-13-16_01_23seed2
+model,fp_types,test_r2
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6590179806920193
+model,fp_types,test_r2
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6688303364416243
+model,fp_types,test_r2
+xgb,AvalonFP_AtomPairFP_RDkitFP_MorganFP,0.6683624801343117
+

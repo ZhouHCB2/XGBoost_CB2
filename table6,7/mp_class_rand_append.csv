@@ -1,0 +1,20 @@
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,1,act4,0.9883837287561759,0.9289302481556003,0.9116025093830875,0.903922849627656,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,2,act4,0.9905111348391973,0.9097035220985223,0.9113509268411574,0.927268366696272,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,4,act4,0.9912004305173058,0.9168306559571621,0.9166463695163865,0.9040310229782971,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,8,act4,0.9895899008877233,0.9200422850063293,0.9268153575694137,0.9146163546719501,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,16,act4,0.9860871991143988,0.9122775105434066,0.9248300329142611,0.9158646182050055,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,32,act4,0.9913875678808579,0.9164311653560506,0.9200535377005965,0.9189774487030584,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,64,act4,0.9929776560495222,0.9199431756829717,0.9232439258268844,0.9194129887727448,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,128,act4,0.9871089653233994,0.9050249344366991,0.9067410412440838,0.9035670162373892,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,256,act4,0.9895053177826209,0.9035613682092555,0.9271137026239067,0.9076391735556011,ROC,803681,26,128,0.0001,0
+,stype,seed,task_name,train_auc,valid_auc,test_auc,ext_aucs,metric,# trainable params,best_epoch,batch_size,lr,weight_decay
+0,both_path,512,act4,0.9936888507593458,0.915288588434916,0.908655090228124,0.9048465931087883,ROC,803681,26,128,0.0001,0
