@@ -1,5 +1,3 @@
-# XGBoost_CB2
-
 1.Reliable Prediction of Cannabinoid Receptor 2 Ligand by Machine Learning Based on Combined Fingerprints 
 containing the dataset and models for reproduce the results.
 
