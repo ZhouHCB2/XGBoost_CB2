@@ -1,0 +1,67 @@
+
+====================================
+            Glide Script            
+====================================
+
+[running at reduced cpu priority]
+--------------------------------------------------------------------------------
+JobId          : qinlab-0-636b095f
+Name           : glide-dock_SP_1
+Program        : Glide
+MMshareExec    : /opt/schrodinger2017-4/./mmshare-v4.0/bin/Linux-x86_64
+Host           : qinlab
+Dir            : /home/admin/@Z_H/dock_11.7/6kpf/glide-dock_SP_1
+HostEntry      : localhost
+JobHost        : qinlab
+JobDir         : /scratch/qinlab/glide-dock_SP_1
+JobMMshareExec : /opt/schrodinger2017-4/mmshare-v4.0/bin/Linux-x86_64
+Commandline    : /opt/schrodinger2017-4/./glide glide-dock_SP_1.in -OVERWRITE -NJOBS 1 -HOST localhost:36 -PROJ /home/qinlab/.schrodinger/tmp/tproj07063a560794 -DISP append -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR -ATTACHED
+StartTime      : 2022-11-09-09:58:55
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_SP_1.in
+
+Setting up docking job
+Separating ligands...
+...                                                     3811
+Number of structures that are to be docked: 3811
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 36)
+Number of jobs:       1
+Max retries per job:  2
+Max allowed failures: unlimited
+Run with -LOCAL:      False
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+C A W | Activity  JobId  JobName  JobHost
+- - - | --------- -----------------------
+0 1 0 | launched  qinlab-0-636b0963 glide-dock_SP_1-0001 localhost [qinlab]
+1 0 0 | finished  qinlab-0-636b0963 glide-dock_SP_1-0001 localhost [qinlab]
+
+All jobs have completed.
+
+1 of 1 job(s) succeeded; 0 job(s) failed.
+
+All jobs succeeded: 3811 ligands done.
+Writing poses to glide-dock_SP_1_pv.maegz
+Combining log files to glide-dock_SP_1_subjobs.log
+Archiving subjob pose files in glide-dock_SP_1_subjob_poses.zip
+Archiving subjob input and log files in glide-dock_SP_1_subjobs.tar.gz
+Cleaning up...
+
+All Glide docking subjobs: Total CPU time = 36346 seconds (10 h 5 min 46 s)
+
+Finished at: Wed Nov  9 20:05:12 2022
+Total elapsed time for Glide script = 36375 seconds (10 h 6 min 15 s)
